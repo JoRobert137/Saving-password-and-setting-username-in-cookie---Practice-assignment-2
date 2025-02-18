@@ -27,3 +27,9 @@
 
 ## 🏁 Outcome
 - Mastery in interpreting SHA256 hashes through critical thinking and analysis.
+
+
+
+## Result
+The hashed value given is '9b15fed64ef16980f625aeed46ab4cd2c498690551d3a2d1e5254d551d7d6ddf'
+The three digit number is for this hashed value is "371".
